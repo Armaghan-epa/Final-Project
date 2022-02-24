@@ -1,0 +1,4 @@
+{
+    "APP_URL":"http://localhost:82/final/backend/api/movie",
+    "ROUTER_HOME" : "/"
+}

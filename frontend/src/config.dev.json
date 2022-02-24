@@ -1,0 +1,4 @@
+{
+    "APP_URL":"http://127.0.0.1/projects/react-project/backend/api/movie",
+    "ROUTER_HOME" : "/projects/react-project/frontend/build",
+}
